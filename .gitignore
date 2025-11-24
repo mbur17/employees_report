@@ -1,0 +1,7 @@
+.env
+livecoding
+__pycache__
+.python-version
+staticfiles
+.venv
+venv
